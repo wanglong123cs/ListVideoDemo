@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\ListVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\praise.png",
+        "source": "F:\\ListVideoDemo\\app\\src\\main\\res\\drawable-hdpi\\praise.png"
+    },
+    {
+        "merged": "F:\\ListVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biz_video_progress_thumb.png",
+        "source": "F:\\ListVideoDemo\\app\\src\\main\\res\\drawable-hdpi\\biz_video_progress_thumb.png"
+    },
+    {
+        "merged": "F:\\ListVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_cion.png",
+        "source": "F:\\ListVideoDemo\\app\\src\\main\\res\\drawable-hdpi\\share_cion.png"
+    },
+    {
+        "merged": "F:\\ListVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\newplay.png",
+        "source": "F:\\ListVideoDemo\\app\\src\\main\\res\\drawable-hdpi\\newplay.png"
+    },
+    {
+        "merged": "F:\\ListVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.jpg",
+        "source": "F:\\ListVideoDemo\\app\\src\\main\\res\\drawable-hdpi\\bg.jpg"
+    },
+    {
+        "merged": "F:\\ListVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\time.png",
+        "source": "F:\\ListVideoDemo\\app\\src\\main\\res\\drawable-hdpi\\time.png"
+    }
+]

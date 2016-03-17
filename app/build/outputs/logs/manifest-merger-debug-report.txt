@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:1:1-35:12
+	xmlns:android
+		ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:1:11-69
+	package
+		ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:2:5-49
+		INJECTED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:4:5-6:41
+	android:targetSdkVersion
+		ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:6:9-38
+		INJECTED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:5:9-35
+		INJECTED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:10:5-33:19
+	android:label
+		ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:13:9-41
+	android:allowBackup
+		ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:12:9-45
+	android:theme
+		ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:14:9-62
+activity#com.android.video.VideoListActivity
+ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:15:9-26:20
+	android:screenOrientation
+		ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:19:13-49
+	android:label
+		ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:18:13-45
+	android:configChanges
+		ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:17:13-74
+	android:name
+		ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:16:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.android.video.FullVideoActivity
+ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:27:9-32:20
+	android:screenOrientation
+		ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:30:13-45
+	android:configChanges
+		ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:29:13-74
+	android:name
+		ADDED from F:\ListVideoDemo\app\src\main\AndroidManifest.xml:28:13-63

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\ListVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_enter_from_bottom.xml",
+        "source": "F:\\ListVideoDemo\\app\\src\\main\\res\\anim\\anim_enter_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\ListVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_exit_from_bottom.xml",
+        "source": "F:\\ListVideoDemo\\app\\src\\main\\res\\anim\\anim_exit_from_bottom.xml"
+    }
+]

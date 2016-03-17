@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\ListVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\biz_video_shrink.png",
+        "source": "F:\\ListVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\biz_video_shrink.png"
+    },
+    {
+        "merged": "F:\\ListVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\biz_video_progress_thumb.png",
+        "source": "F:\\ListVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\biz_video_progress_thumb.png"
+    },
+    {
+        "merged": "F:\\ListVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\biz_video_pause.png",
+        "source": "F:\\ListVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\biz_video_pause.png"
+    },
+    {
+        "merged": "F:\\ListVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\biz_video_play.png",
+        "source": "F:\\ListVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\biz_video_play.png"
+    },
+    {
+        "merged": "F:\\ListVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\biz_video_expand.png",
+        "source": "F:\\ListVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\biz_video_expand.png"
+    }
+]
